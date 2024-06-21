@@ -26,7 +26,7 @@ resource "google_gke_hub_feature" "feature" {
       config_sync {
         source_format = "unstructured"
         git {
-          sync_repo = "https://github.com/knee-berts/fleets-next24-demo"
+          sync_repo = "https://github.com/karlitoz007/fleets-next24-demo"
           sync_branch = "dev"
           policy_dir = "default-configs"
           secret_type = "none"

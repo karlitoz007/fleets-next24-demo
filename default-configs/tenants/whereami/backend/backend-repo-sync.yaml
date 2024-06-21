@@ -8,7 +8,7 @@ metadata:
 spec:
   sourceFormat: unstructured
   git:
-    repo: https://github.com/knee-berts/fleets-next24-demo
+    repo: https://github.com/karlitoz007/fleets-next24-demo
     branch: dev
     dir: teams/whereami/backend
     auth: none

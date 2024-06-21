@@ -1,3 +1,4 @@
 tmp/
 dns-spec.yaml
 .kubeconfig
+extra/terraform
